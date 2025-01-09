@@ -29,6 +29,7 @@ public:
             throw out_of_range("Invalid segment selector!");
 
         Segment segment = segmentTable[segmentSelector];
+
         if (offset < 0 || offset >= segment.limit)
             throw out_of_range("Offset out of segment bounds!");
 

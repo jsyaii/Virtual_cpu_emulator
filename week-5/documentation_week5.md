@@ -1,11 +1,5 @@
 # Virtual Memory Management
 
-## Table of Contents
-
-- [Code 1: Basic Memory Management with a Vector](#code-1-basic-memory-management-with-a-vector)
-- [Code 2: Memory Management with Error Handling](#code-2-memory-management-with-error-handling)
-- [Code 3: Virtual Memory with Segment Address Mapping](#code-3-virtual-memory-with-segment-address-mapping)
-
 ---
 
 ## Code 1: Basic Memory Management with a Vector
