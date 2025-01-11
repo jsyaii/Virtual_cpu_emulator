@@ -34,7 +34,7 @@ Simulates a basic CPU with input and output devices, allowing data transfer betw
 
 ### Usage:
 
-1. Run the program.
+1. Run the program successfully.
 2. Provide simulated input values as prompted.
 3. Observe how data is transferred from the input device to the output device via a register.
 
